@@ -4,3 +4,4 @@
 22,Nichlas,Toldam,Crawl,4.452,2016-12-01,false,false,Svoemmeklubben
 3,Janie,Gordon,Crawl,81.934,2016-12-01,false,false,Svoemmeklubben
 22,Nichlas,Toldam,Crawl,8.452,2016-12-01,false,false,Svoemmeklubben
+23,Jamie,Ramsgaard,Crawl,8.32,2017-02-21,aktiv,aktiv,Svoemmeklubben
