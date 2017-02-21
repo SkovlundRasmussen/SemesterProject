@@ -1,0 +1,6 @@
+3,Janie,Gordon,Rygcrawl,88.934,2016-12-01,false,false,Svoemmeklubben
+22,Nichlas,Toldam,Rygcrawl,2.452,2016-12-01,false,false,Svoemmeklubben
+3,Janie,Gordon,Rygcrawl,82.934,2016-12-01,false,false,Svoemmeklubben
+22,Nichlas,Toldam,Rygcrawl,4.452,2016-12-01,false,false,Svoemmeklubben
+3,Janie,Gordon,Rygcrawl,81.934,2016-12-01,false,false,Svoemmeklubben
+22,Nichlas,Toldam,Rygcrawl,8.452,2016-12-01,false,false,Svoemmeklubben

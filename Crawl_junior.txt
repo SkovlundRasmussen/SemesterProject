@@ -1,0 +1,6 @@
+3,Janie,Gordon,Crawl,88.934,2016-12-01,false,false,Svoemmeklubben
+22,Nichlas,Toldam,Crawl,2.452,2016-12-01,false,false,Svoemmeklubben
+3,Janie,Gordon,Crawl,82.934,2016-12-01,false,false,Svoemmeklubben
+22,Nichlas,Toldam,Crawl,4.452,2016-12-01,false,false,Svoemmeklubben
+3,Janie,Gordon,Crawl,81.934,2016-12-01,false,false,Svoemmeklubben
+22,Nichlas,Toldam,Crawl,8.452,2016-12-01,false,false,Svoemmeklubben

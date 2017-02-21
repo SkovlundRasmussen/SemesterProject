@@ -1,0 +1,16 @@
+23,Peter,Skovboe,Hundesvoemning,11.329,2016-11-29,true,false,Svoemmeklubben
+8,Lola,Fields,Hundesvoemning,234.567,2016-12-01,true,false,Svoemmeklubben
+14,Alton,Young,Hundesvoemning,93.483,2016-12-01,true,false,Svoemmeklubben
+24,Jesper,Pedersen,Hundesvoemning,32463.463,2016-12-01,true,false,Svoemmeklubben
+21,Kristian,Rasmussen,Hundesvoemning,11.999,2016-11-29,true,false,Svoemmeklubben
+10,Marcus,Moran,Hundesvoemning,32.948,2016-12-01,true,false,Svoemmeklubben
+15,Jerome,Fox,Hundesvoemning,246.884,2016-12-01,true,false,Svoemmeklubben
+16,Darin,Lamb,Hundesvoemning,2.5246246426E7,2016-12-01,true,true,StævneStævne
+19,Ernestine,Hall,Hundesvoemning,242435.727,2016-12-01,true,true,OL
+24,Jesper,Pedersen,Hundesvoemning,2.352,2016-12-01,true,false,Svoemmeklubben
+5,Rick,Harvey,Hundesvoemning,23.456,2016-12-01,true,false,Svoemmeklubben
+19,Ernestine,Hall,Hundesvoemning,2.314,2016-12-01,true,false,Svoemmeklubben
+19,Ernestine,Hall,Hundesvoemning,11.111,2016-12-01,true,false,Svoemmeklubben
+14,Alton,Young,Hundesvoemning,2.345,2016-12-01,true,false,Svoemmeklubben
+24,Jesper,Pedersen,Hundesvoemning,19.879,2016-12-01,true,false,Svoemmeklubben
+20,Batman,Ramsgaard,Hundesvoemning,89.123,2016-12-01,true,false,Svoemmeklubben

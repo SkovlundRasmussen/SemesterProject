@@ -1,0 +1,6 @@
+5,Rick,Harvey,BrystSvoemning,23.456,2016-12-01,true,false,Svoemmeklubben
+19,Ernestine,Hall,BrystSvoemning,2.314,2016-12-01,true,false,Svoemmeklubben
+19,Ernestine,Hall,BrystSvoemning,11.111,2016-12-01,true,false,Svoemmeklubben
+14,Alton,Young,BrystSvoemning,2.345,2016-12-01,true,false,Svoemmeklubben
+24,Jesper,Pedersen,BrystSvoemning,19.879,2016-12-01,true,false,Svoemmeklubben
+20,Batman,Ramsgaard,BrystSvoemning,89.123,2016-12-01,true,false,Svoemmeklubben

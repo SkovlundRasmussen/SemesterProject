@@ -1,0 +1,8 @@
+19,Ernestine,Hall,Butterfly,242435.727,2016-12-01,true,true,OL
+24,Jesper,Pedersen,Butterfly,2.352,2016-12-01,true,false,Svoemmeklubben
+5,Rick,Harvey,Butterfly,23.456,2016-12-01,true,false,Svoemmeklubben
+19,Ernestine,Hall,Butterfly,2.314,2016-12-01,true,false,Svoemmeklubben
+19,Ernestine,Hall,Butterfly,11.111,2016-12-01,true,false,Svoemmeklubben
+14,Alton,Young,Butterfly,2.345,2016-12-01,true,false,Svoemmeklubben
+24,Jesper,Pedersen,Butterfly,19.879,2016-12-01,true,false,Svoemmeklubben
+20,Batman,Ramsgaard,Butterfly,89.123,2016-12-01,true,false,Svoemmeklubben

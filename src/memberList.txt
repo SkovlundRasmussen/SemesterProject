@@ -1,0 +1,26 @@
+Batman,Ramsgaard,18,0,true,true,2016,true
+Kristian,Rasmussen,25,1,true,true,2016,true
+Nichlas,Toldam,26,2,true,true,2016,false
+Peter,Skovboe,22,3,true,true,2016,true
+David,Ramirez,34,0,true,true,2016,true
+Christine,Bates,32,1,true,true,2016,false
+Carla,Ryan,54,2,true,true,2016,true
+Janie,Gordon,12,3,true,true,2016,true
+Marcus,Parsons,14,4,true,true,2016,true
+Rick,Harvey,64,5,true,true,2016,true
+Alfonso,Garner,34,6,true,true,2016,true
+Evelyn,Carson,23,7,true,true,2016,true
+Lola,Fields,20,8,true,true,2016,true
+Fredrick,Frazier,22,9,true,true,2016,true
+Marcus,Moran,44,10,true,true,2016,false
+Allan,Simmons,9,11,true,true,2016,true
+Alfredo,Erickson,4,12,true,true,2016,true
+Jimmie,Maxwell,55,13,true,true,2016,true
+Alton,Young,33,14,true,true,2016,true
+Jerome,Fox,23,15,true,true,2016,true
+Darin,Lamb,65,16,true,true,2016,true
+Frances,Stone,98,17,true,true,2016,true
+Kristy,Beck,29,18,true,true,2016,true
+Ernestine,Hall,30,19,true,true,2016,true
+Chat afsluttet
+

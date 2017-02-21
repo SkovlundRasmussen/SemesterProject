@@ -1,0 +1,16 @@
+23,Peter,Skovboe,Rygcrawl,11.329,2016-11-29,true,false,Svoemmeklubben
+8,Lola,Fields,Rygcrawl,234.567,2016-12-01,true,false,Svoemmeklubben
+14,Alton,Young,Rygcrawl,93.483,2016-12-01,true,false,Svoemmeklubben
+24,Jesper,Pedersen,Rygcrawl,32463.463,2016-12-01,true,false,Svoemmeklubben
+21,Kristian,Rasmussen,Rygcrawl,11.999,2016-11-29,true,false,Svoemmeklubben
+10,Marcus,Moran,Rygcrawl,32.948,2016-12-01,true,false,Svoemmeklubben
+15,Jerome,Fox,Rygcrawl,246.884,2016-12-01,true,false,Svoemmeklubben
+16,Darin,Lamb,Rygcrawl,2.5246246426E7,2016-12-01,true,true,StævneStævne
+19,Ernestine,Hall,Rygcrawl,242435.727,2016-12-01,true,true,OL
+24,Jesper,Pedersen,Rygcrawl,2.352,2016-12-01,true,false,Svoemmeklubben
+5,Rick,Harvey,Rygcrawl,23.456,2016-12-01,true,false,Svoemmeklubben
+19,Ernestine,Hall,Rygcrawl,2.314,2016-12-01,true,false,Svoemmeklubben
+19,Ernestine,Hall,Rygcrawl,11.111,2016-12-01,true,false,Svoemmeklubben
+14,Alton,Young,Rygcrawl,2.345,2016-12-01,true,false,Svoemmeklubben
+24,Jesper,Pedersen,Rygcrawl,19.879,2016-12-01,true,false,Svoemmeklubben
+20,Batman,Ramsgaard,Rygcrawl,89.123,2016-12-01,true,false,Svoemmeklubben

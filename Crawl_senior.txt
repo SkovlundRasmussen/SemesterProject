@@ -1,0 +1,12 @@
+21,Kristian,Rasmussen,Crawl,11.999,2016-11-29,true,false,Svoemmeklubben
+10,Marcus,Moran,Crawl,32.948,2016-12-01,true,false,Svoemmeklubben
+15,Jerome,Fox,Crawl,246.884,2016-12-01,true,false,Svoemmeklubben
+16,Darin,Lamb,Crawl,2.5246246426E7,2016-12-01,true,true,StævneStævne
+19,Ernestine,Hall,Crawl,242435.727,2016-12-01,true,true,OL
+24,Jesper,Pedersen,Crawl,2.352,2016-12-01,true,false,Svoemmeklubben
+5,Rick,Harvey,Crawl,23.456,2016-12-01,true,false,Svoemmeklubben
+19,Ernestine,Hall,Crawl,2.314,2016-12-01,true,false,Svoemmeklubben
+19,Ernestine,Hall,Crawl,11.111,2016-12-01,true,false,Svoemmeklubben
+14,Alton,Young,Crawl,2.345,2016-12-01,true,false,Svoemmeklubben
+24,Jesper,Pedersen,Crawl,19.879,2016-12-01,true,false,Svoemmeklubben
+20,Batman,Ramsgaard,Crawl,89.123,2016-12-01,true,false,Svoemmeklubben

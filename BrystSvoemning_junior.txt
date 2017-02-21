@@ -1,0 +1,7 @@
+22,Nichlas,Toldam,BrystSvoemning,1.111,2016-12-01,false,false,Svoemmeklubben
+3,Janie,Gordon,BrystSvoemning,88.934,2016-12-01,false,false,Svoemmeklubben
+22,Nichlas,Toldam,BrystSvoemning,2.452,2016-12-01,false,false,Svoemmeklubben
+3,Janie,Gordon,BrystSvoemning,82.934,2016-12-01,false,false,Svoemmeklubben
+22,Nichlas,Toldam,BrystSvoemning,4.452,2016-12-01,false,false,Svoemmeklubben
+3,Janie,Gordon,BrystSvoemning,81.934,2016-12-01,false,false,Svoemmeklubben
+22,Nichlas,Toldam,BrystSvoemning,8.452,2016-12-01,false,false,Svoemmeklubben

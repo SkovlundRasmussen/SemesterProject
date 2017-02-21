@@ -1,0 +1,6 @@
+3,Janie,Gordon,Hundesvoemning,88.934,2016-12-01,false,false,Svoemmeklubben
+22,Nichlas,Toldam,Hundesvoemning,2.452,2016-12-01,false,false,Svoemmeklubben
+3,Janie,Gordon,Hundesvoemning,82.934,2016-12-01,false,false,Svoemmeklubben
+22,Nichlas,Toldam,Hundesvoemning,4.452,2016-12-01,false,false,Svoemmeklubben
+3,Janie,Gordon,Hundesvoemning,81.934,2016-12-01,false,false,Svoemmeklubben
+22,Nichlas,Toldam,Hundesvoemning,8.452,2016-12-01,false,false,Svoemmeklubben
