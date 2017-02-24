@@ -1,6 +1,15 @@
+import javafx.application.Application;
+import javafx.scene.Scene;
+import javafx.scene.control.Button;
+import javafx.scene.layout.StackPane;
+import javafx.stage.Stage;
+
+import java.awt.event.ActionEvent;
 import java.util.*;
-public class SystemMenu
+public class SystemMenu extends Application
 {
+    Button button;
+
     public static void systemMenu()
     {
         Scanner scanner;
@@ -11,6 +20,7 @@ public class SystemMenu
         CompetitionTeams competitionTeams   = new CompetitionTeams();
         Members members                     = Members.getInstance();
         Toolbox tool                        = new Toolbox();
+        Application.launch("sdadsa");
 
         while (running == true)
         {
@@ -41,5 +51,28 @@ public class SystemMenu
                     break;
             }
         }
+    }
+
+    @Override
+    public void start(Stage primaryStage) throws Exception {
+        AdminstrerMedlemMenu adminMedlem    = new AdminstrerMedlemMenu();
+        primaryStage.setTitle("Hovedmenu");
+
+        button = new Button();
+        button.setText("Adminstrer medlem");
+        button.setOnAction(event ->
+        {
+            adminMedlem.adminstrerMedlemMenu();
+        });
+
+        StackPane layout = new StackPane();
+
+        layout.getChildren().addAll(button);
+        Scene scene = new Scene(layout, 300, 250);
+
+        primaryStage.setScene(scene);
+
+        primaryStage.show();
+
     }
 }
